@@ -1,0 +1,57 @@
+# SIP Configuration Generic File
+# Image Version
+# SIPMAC.cnf should be renamed to something like
+# SIP00AABBD9BA13.cnf according to the Mac address of the phone
+image_version: P0S3-8-12-00
+phone_label: "Bananaphone "
+
+# Line 1 appearance
+line1_displayname: "sip user?"
+line1_shortname: "display line on phone"
+line1_name: "sip_user"
+line1_authname: "sip_user"
+line1_password: "pass"
+
+# Line 2 appearance
+line2_displayname: "sip user?"
+line2_shortname: "display line on phone"
+line2_name: "sip_user"
+line2_authname: "sip_user"
+line2_password: "pass"
+
+# Line 3 appearance
+line3_displayname: ""
+line3_shortname: ""
+line3_name: UNPROVISIONED
+line3_authname: "UNPROVISIONED"
+line3_password: "UNPROVISIONED"
+
+# Line 4 appearance
+line4_displayname: ""
+line4_shortname: ""
+line4_name: UNPROVISIONED
+line4_authname: "UNPROVISIONED"
+line4_password: "UNPROVISIONED"
+
+# Line 5 appearance
+line5_displayname: ""
+line5_shortname: ""
+line5_name: UNPROVISIONED
+line5_authname: "UNPROVISIONED"
+line5_password: "UNPROVISIONED"
+
+# Line 6 appearance
+line6_displayname: ""
+line6_shortname: ""
+line6_name: UNPROVISIONED
+line6_authname: "UNPROVISIONED"
+line6_password: "UNPROVISIONED"
+
+# Phone Prompt (The prompt that will be displayed on console and telnet)
+phone_prompt: "SIP Phone 7940" # Limited to 15 characters (Default - SIP Phone)
+
+# Phone Password (Password to be used for console or telnet login)
+phone_password: "telnet password" # Limited to 31 characters (Default - cisco)
+
+# User classifcation used when Registering [ none(default), phone, ip ]
+user_info: "phone"

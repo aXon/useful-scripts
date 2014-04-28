@@ -1,0 +1,8 @@
+<CiscoIPPhoneMenu>
+	<Title>Wow!</Title>
+	<Prompt>Surprise :D</Prompt>
+	<MenuItem>
+		<Name>Phone Directory</Name>
+		<URL>http://yourserver/cisco/directory.xml</URL>
+	</MenuItem>
+</CiscoIPPhoneMenu>

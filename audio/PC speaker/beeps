@@ -1,0 +1,25 @@
+echo -e "ec" > /dev/speaker
+echo -e "t255l8c.f.afc~c.f.afc~c.f.afc.f.a..f.~c.f.afc~c.f.afc~c.f.afc~c.f.." > /dev/speaker
+# Begegnung der dritten Art 
+echo -e "<cd<a#~<a#>f" > /dev/speaker
+echo -e "t240<cfcfgagaa#b#>dc<a#a.~fg.gaa#.agagegc.~cfcfgagaa#b#>dc<a#a.~fg.gga.agfgfgf." > /dev/speaker
+echo -e "t255cf8f8edc<a>~cf8f8edd#e~ce8cdce8cd.<a>c8c8c#def8af8" > /dev/speaker
+echo -e "olcega.a8f>cd2bgc.c8dee2" > /dev/speaker
+# Beethoven for Elise???
+echo -e "msl16oldcd4mll8pcb-agf+4.g4p4<msl16dcd4mll8pa.a+f+4p16g4" > /dev/speaker
+# star trek theme
+echo -e "l2b.f+.p16a.c+.p l4mn<b.>e8a2mspg+e8c+f+8b2" > /dev/speaker
+
+echo -e "gc.c8dee2" > /dev/speaker
+
+# batphone?
+echo -e "P 1 F P 1 F P 1 F" > /dev/speaker
+
+echo -e "l12<eaebegae>c<e>d<eb>c<eaebegae>c<e>d<eb>c<ebe" > /dev/speaker
+
+echo -e "T250L8CE-GE-C" > /dev/speaker
+echo -e "O1L15aO2L15bO3L15cO4L15d" > /dev/speaker
+echo "O3L30cO4L30cO5L30cO5L30g" > /dev/speaker
+
+echo "CCGGAAG2FFEEDDC2" > /dev/speaker 
+echo "L9 ED#ED#E.BDCA.CEAB.EG#BC.EED#ED#EBDCA.CEAB.ECBA" > /dev/speaker

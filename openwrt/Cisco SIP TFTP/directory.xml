@@ -1,0 +1,8 @@
+<CiscoIPPhoneDirectory>
+	<Title>Directory</Title>
+	<Prompt>Who do you want to call?</Prompt>
+	<DirectoryEntry>
+     		<Name>Example.org</Name>
+          	<Telephone>00322222222</Telephone>
+	</DirectoryEntry>
+</CiscoIPPhoneDirectory>
